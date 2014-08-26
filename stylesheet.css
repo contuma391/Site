@@ -1,0 +1,154 @@
+div.header
+   {
+	list-style-type:none;
+	position: relative;
+   }
+li.leiste
+   {
+	display:inline;
+	font-weight: bold;
+	font-size: 120%;
+   }
+div.main
+   {
+	   float:left;
+	   height:75%;
+	   width:90%;
+	   clear:both;
+	   font-size: 100%;
+   }
+div.inner1
+   {
+	float:left;
+	height:70%;
+	width:49%;
+	border:1px black dashed;
+	padding:2px;
+	position: relative;
+   }
+div.heading1
+   {
+	   float:left;
+	   height:6%;
+	   width:100%;
+	   font-style:italic;
+   }
+p.iea
+   {
+	   color:#F00
+   }
+div.inner2
+   {
+	float:right;
+	height:70%;
+	width:49%;
+	border:1px black dashed;
+	padding:2px;
+	position: relative;
+   }
+div.heading2
+   {
+	   float:left;
+	   height:6%;
+	   width:100%;
+	   font-style:italic;
+   }
+div.media
+   {
+	height:90%;
+	width:100%;
+	padding:2%;
+	text-align:center;
+   }
+div.inner3
+   {
+	float:left;
+	height:30%;
+	width:99.5%;
+	border:1px black dashed;
+	clear:both;
+	padding:2px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 3px;
+	position: relative;
+   }
+div.heading3
+   {
+	   height:10%;
+	   width:99.8%;
+	   font-style:italic;
+	   border:1px dotted black;
+   }     
+div.scroll
+   {
+	   float:left;
+	   height:89%;
+	   width:100%;
+	   overflow:auto;
+   }
+div.seite
+   {
+	   float:right;
+	   height:76%;
+	   width:9%;
+	   border:1px dashed black;
+	   padding:2px;
+	   font-size: 100%;
+	   position: static;
+   }   	  
+li.lseite
+   {
+	   list-style-type: none;
+   }
+p.pseite
+   {
+	   font-weight: bold;
+	   font-size: 	120%
+   }
+div.footer
+   {
+	clear:both;
+	position:relative;
+	border:1px black solid;
+	width: 98%;
+	text-align:center;
+	font-size: 100%;
+	padding:2px;
+	margin-top: 20px;
+	margin-left:1%;
+	float: left;
+   }	  
+div.inner4
+   {
+	float:left;
+	height:100%;
+	width:99.5%;
+	border:1px black dashed;
+	padding:2px;
+	position: relative;
+   }
+div.toolbar
+   {
+	height:25%;
+	width:100%;
+	padding-left:2px;
+	text-align:center;
+	font-size: 400%;
+   }
+div.media
+   {
+	   height:75%;
+	   width:100%;
+	   padding:2%;
+	   text-align:center;
+   }
+div.scroll2
+   {
+	   float:left;
+	   height:85%;
+	   width:100%;
+	   overflow:auto;
+	   clear:both;
+   }   
